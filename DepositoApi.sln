@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositoApi", "DepositoApi\DepositoApi.csproj", "{B4FD3F56-B981-4E0A-AFE7-A0071BE7C4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositoApi.Tests", "DepositoApi.Tests\DepositoApi.Tests.csproj", "{4A8902C2-94DA-42DC-8D58-DA69E58D82BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4FD3F56-B981-4E0A-AFE7-A0071BE7C4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FD3F56-B981-4E0A-AFE7-A0071BE7C4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FD3F56-B981-4E0A-AFE7-A0071BE7C4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FD3F56-B981-4E0A-AFE7-A0071BE7C4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8902C2-94DA-42DC-8D58-DA69E58D82BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8902C2-94DA-42DC-8D58-DA69E58D82BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8902C2-94DA-42DC-8D58-DA69E58D82BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8902C2-94DA-42DC-8D58-DA69E58D82BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
